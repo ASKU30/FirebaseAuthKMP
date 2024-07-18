@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181720774177",
+    "project_id": "fir-authkmp",
+    "storage_bucket": "fir-authkmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181720774177:android:762630e56fc9867fead560",
+        "android_client_info": {
+          "package_name": "org.ashok.firebaseauthkmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhblcMkLKQP6l7HhlADEqow7Q6eoa8S_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
